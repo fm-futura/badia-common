@@ -1,0 +1,140 @@
+# badia-common
+# Copyright (C) 2018 Adrián Pardini - Futura Comunicación Popular
+# This file is distributed under the same license as the badia-common package.
+# Adrián Pardini <github@tangopardo.com.ar>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-16 10:00-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: apps.py:8
+msgid "Badia - Common Settings"
+msgstr "Badia - Configuración General "
+
+#. Translators: Station
+#: models.py:11 models.py:29 models.py:66 models.py:81
+msgid "Name"
+msgstr "Nombre"
+
+#: models.py:12 models.py:30
+msgid "Description"
+msgstr "Descripción"
+
+#: models.py:13 models.py:31
+msgid "Website"
+msgstr "Sitio web"
+
+#: models.py:14
+msgctxt "Station"
+msgid "Active"
+msgstr "Activa"
+
+#: models.py:21 models.py:28
+msgid "Station"
+msgstr "Emisora"
+
+#: models.py:22
+msgid "Stations"
+msgstr "Emisoras"
+
+#: models.py:32
+msgctxt "Show"
+msgid "Active"
+msgstr "Activo"
+
+#: models.py:33
+msgctxt "Show"
+msgid "Start"
+msgstr "Fecha Inicio"
+
+#: models.py:34
+msgctxt "Show"
+msgid "End"
+msgstr "Fecha Fin"
+
+#: models.py:35 models.py:75
+msgid "Links"
+msgstr "Enlaces"
+
+#: models.py:42
+msgid "Show"
+msgstr "Programa"
+
+#: models.py:43
+msgid "Shows"
+msgstr "Programas"
+
+#: models.py:49
+msgid "Emissions"
+msgstr "Emisión"
+
+#: models.py:50
+msgid "Priority"
+msgstr "Prioridad"
+
+#: models.py:51
+msgid "Is Repeat"
+msgstr "Es Repetición"
+
+#: models.py:52
+msgid "Is Live"
+msgstr "En Vivo"
+
+#: models.py:55
+msgctxt "Emission"
+msgid "Start"
+msgstr "Fecha Inicio"
+
+#: models.py:56
+msgctxt "Emission"
+msgid "End"
+msgstr "Fecha Fin"
+
+#: models.py:59
+msgctxt "Emission"
+msgid "Start Time"
+msgstr "Día y hora Fin"
+
+#: models.py:60
+msgctxt "Emission"
+msgid "End Time"
+msgstr "Día y hora Fin"
+
+#: models.py:67
+msgid "Target"
+msgstr "Destino"
+
+#: models.py:68 models.py:83
+msgid "Icon"
+msgstr "Ícono"
+
+#: models.py:74
+msgid "Link"
+msgstr "Enlace"
+
+#: models.py:82
+msgid "Target template"
+msgstr "Plantilla destino"
+
+#: models.py:84
+msgid "Help Text"
+msgstr "Ayuda"
+
+#: models.py:90
+msgid "Link Template"
+msgstr "Plantilla de Enlace"
+
+#: models.py:91
+msgid "Link Templates"
+msgstr "Plantillas de Enlaces"
